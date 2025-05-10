@@ -1,4 +1,4 @@
-<img src="https://github.com/supchyan/Hono/assets/123704468/997ee1fc-3091-49bc-a33a-d2facb3fac91&width" height="15" />
+<img src="https://github.com/supchyan/Hono/assets/123704468/997ee1fc-3091-49bc-a33a-d2facb3fac91" height="15" />
 </br>
 
 ### ⛈️Описание:
