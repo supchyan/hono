@@ -15,20 +15,20 @@
 ![image](https://github.com/user-attachments/assets/d2167075-7223-4a7d-a505-074049735678)
 </br></br>
 
-## countribute
+## contribute
 
-### ☂️build
+### pre req
 Get `node_modules` deps:
 ```
 npm i
 ```
 
-Find this `\node_modules\tracking\build\tracking.js` and add at the end:
+Find this `\node_modules\tracking\build\tracking.js` and add below last line:
 ```js
 module.exports = tracking
 ```
 
-### ☔Debugging
+### run
 ```cmd
 ./run
 ```
