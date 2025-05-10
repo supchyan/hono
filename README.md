@@ -15,12 +15,12 @@
 ![image](https://github.com/user-attachments/assets/d2167075-7223-4a7d-a505-074049735678)
 </br></br>
 
-## 📁Для разработчиков:
+## countribute
 
-### ☂️Building
+### ☂️build
 Get `node_modules` deps:
 ```
-./install
+npm i
 ```
 
 Find this `\node_modules\tracking\build\tracking.js` and add at the end:
